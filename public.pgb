@@ -1,16 +1,3 @@
-## Hi there 👋
-
-My name is Sascha Taumann, I am a Senior Backend Developer at [Empiriecom GmbH & Co. KG](https://empiriecom.com/) in Weismain, Germany.
-
-### GPG
- Usually my commits - if not added using github - are signed using my GPG key.
- The fingerprint of the key is 
- ```text
- 797E BEED 1761 3101 9DE9  6B0B 1CC2 C617 80F6 1367
- ```
- You can copy the key below or download it [here](./public.pgp).
- 
- ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGDQdMcBEADBViKBVrw6F5QXBZM5ttw/2N5ZM0gAYXa8wLvcMpv0lWGsSZQU
@@ -63,5 +50,3 @@ RYHKszRiqEorG7xL0xXsNo9IlF/D1qgrBPe1V17qZE9IOuk70SVrNseAgIXE0hzM
 Px4TlY9/7QG86mJVEgOv/uk=
 =IprF
 -----END PGP PUBLIC KEY BLOCK-----
-
-```
